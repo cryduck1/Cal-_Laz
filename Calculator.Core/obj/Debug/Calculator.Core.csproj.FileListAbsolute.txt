@@ -1,0 +1,6 @@
+C:\Users\Лазуков.ВН\source\repos\Calculator_Lazukov\Calculator.Core\bin\Debug\Calculator.Core.dll
+C:\Users\Лазуков.ВН\source\repos\Calculator_Lazukov\Calculator.Core\bin\Debug\Calculator.Core.pdb
+C:\Users\Лазуков.ВН\source\repos\Calculator_Lazukov\Calculator.Core\obj\Debug\Calculator.Core.csproj.AssemblyReference.cache
+C:\Users\Лазуков.ВН\source\repos\Calculator_Lazukov\Calculator.Core\obj\Debug\Calculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\Лазуков.ВН\source\repos\Calculator_Lazukov\Calculator.Core\obj\Debug\Calculator.Core.dll
+C:\Users\Лазуков.ВН\source\repos\Calculator_Lazukov\Calculator.Core\obj\Debug\Calculator.Core.pdb
